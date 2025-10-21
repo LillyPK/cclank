@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # cclank  
 A C++ build and project manager inspired by Rust’s build system.
 ---
@@ -110,7 +108,5 @@ I provided the full specification and created the icon myself.
 I’ve personally reviewed the source code and found no malicious behavior — it’s functional and safe to use.
 
 ---
-=======
 # cclank
 A C++ build and project manager inspired by Rust’s build system.
->>>>>>> 7cb2a2672e07b4f39e5967f1a31656aa87d607e0
