@@ -1,0 +1,2 @@
+#define IDR_ICON 101
+IDR_ICON RCDATA "icon.ico"
